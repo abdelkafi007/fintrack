@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle area -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0"/>
+    <!-- Dollar sign -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,38v-3h-4v3c-4.1,0.5 -7,3.2 -7,6.5c0,3.8 3.1,5.5 7,6.5v8c-2.2,-0.4 -3.8,-1.6 -4.5,-3.5l-3.5,1.5c1.3,3.1 4.3,5 8,5.5v3h4v-3c4.3,-0.5 7.5,-3.2 7.5,-7c0,-4.2 -3.3,-5.8 -7.5,-6.8v-7.5c1.8,0.4 3.2,1.5 3.8,3l3.5,-1.5c-1.2,-2.8 -3.8,-4.5 -7.3,-5zM48,44.5c0,-1.5 1.2,-2.8 4,-3.2v6.2C49.5,46.8 48,46 48,44.5zM56,62.8v-6.8c3,0.8 4.5,1.8 4.5,3.5C60.5,61.2 59,62.4 56,62.8z"/>
+    <!-- Chart bar left -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M36,64h4v8h-4z"/>
+    <!-- Chart bar right -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M68,58h4v14h-4z"/>
+</vector>

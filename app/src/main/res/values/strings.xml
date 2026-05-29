@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">FinTrack</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="retry">Retry</string>
+    <string name="undo">Undo</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_more">More</string>
+
+    <!-- Home -->
+    <string name="total_balance">Total Balance</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="this_month">This Month</string>
+    <string name="see_all">See All</string>
+
+    <!-- Transactions -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="transaction_deleted">Transaction deleted</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="account">Account</string>
+    <string name="date">Date</string>
+    <string name="notes">Notes</string>
+    <string name="receipt">Receipt</string>
+    <string name="recurring">Recurring</string>
+    <string name="transfer">Transfer</string>
+    <string name="from_account">From Account</string>
+    <string name="to_account">To Account</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="no_transactions_hint">Tap + to add your first transaction</string>
+
+    <!-- Categories -->
+    <string name="categories">Categories</string>
+    <string name="add_category">Add Category</string>
+    <string name="category_name">Category Name</string>
+
+    <!-- Accounts -->
+    <string name="accounts">Accounts</string>
+    <string name="add_account">Add Account</string>
+    <string name="net_worth">Net Worth</string>
+    <string name="cash">Cash</string>
+    <string name="bank">Bank</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="savings">Savings</string>
+
+    <!-- Budgets -->
+    <string name="budgets">Budgets</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="budget_limit">Budget Limit</string>
+    <string name="remaining">Remaining</string>
+    <string name="over_budget">Over Budget</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+
+    <!-- Goals -->
+    <string name="savings_goals">Savings Goals</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="goal_name">Goal Name</string>
+    <string name="target_amount">Target Amount</string>
+    <string name="deadline">Deadline</string>
+    <string name="allocate_funds">Allocate Funds</string>
+    <string name="goal_completed">Goal Completed! 🎉</string>
+
+    <!-- Analytics -->
+    <string name="analytics">Analytics</string>
+    <string name="income_vs_expense">Income vs Expense</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <string name="spending_trend">Spending Trend</string>
+    <string name="export_report">Export Report</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="currency">Currency</string>
+    <string name="first_day_of_week">First Day of Week</string>
+    <string name="security">Security</string>
+    <string name="app_lock">App Lock</string>
+    <string name="biometric_lock">Biometric Lock</string>
+    <string name="data_management">Data Management</string>
+    <string name="export_data">Export Data</string>
+    <string name="import_data">Import Data</string>
+    <string name="backup">Backup</string>
+    <string name="about">About</string>
+    <string name="version">Version %1$s</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to FinTrack</string>
+    <string name="welcome_subtitle">Your personal finance companion</string>
+    <string name="select_currency">Select Your Currency</string>
+    <string name="create_first_account">Create Your First Account</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <!-- Notifications -->
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_alerts">Alerts</string>
+    <string name="channel_summary">Weekly Summary</string>
+
+    <!-- Biometric -->
+    <string name="biometric_title">Unlock FinTrack</string>
+    <string name="biometric_subtitle">Use your fingerprint or face to unlock</string>
+    <string name="biometric_negative">Use PIN</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_select_category">Please select a category</string>
+    <string name="error_select_account">Please select an account</string>
+    <string name="error_insufficient_balance">Insufficient balance for this transfer</string>
+</resources>
